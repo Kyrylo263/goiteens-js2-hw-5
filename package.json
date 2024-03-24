@@ -1,0 +1,18 @@
+{
+  "name": "goiteens-js2-hw-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/*.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@pnotify/core": "^5.2.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.2"
+  }
+}
